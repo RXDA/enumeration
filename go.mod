@@ -7,5 +7,5 @@ require (
 	github.com/go-courier/packagesx v1.0.2
 	github.com/onsi/gomega v1.9.0
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/tools v0.0.0-20200330040139-fa3cc9eebcfe
+	golang.org/x/tools 332987a829c3
 )
